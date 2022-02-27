@@ -1,0 +1,26 @@
+{
+  "name": "nht-book-to-scrape",
+  "version": "1.0.0",
+  "description": "Scrape data from book.toscrape.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toannguyen3105/nht-book-to-scrape.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "toannh8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toannguyen3105/nht-book-to-scrape/issues"
+  },
+  "homepage": "https://github.com/toannguyen3105/nht-book-to-scrape#readme",
+  "dependencies": {
+    "puppeteer": "^13.4.0"
+  }
+}
